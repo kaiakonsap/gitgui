@@ -1,9 +1,11 @@
+$black: #000;
 body
 {
     color: red;
     div
     {
         color: blue;
-        background-color: pink;
+        background-color: $black;
+        ;
     }
 }
